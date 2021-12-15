@@ -155,9 +155,9 @@ local library = {
 	windows = {},
     pointers = {},
     settings = {
-        guiname = "Drift.Tap",
-		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = " Exodus Winning $$$",
+        guiname = "Drift Tap",
+		logo = ""
+        footer = " suck my ballz",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,
